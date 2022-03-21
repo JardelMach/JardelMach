@@ -1,0 +1,4 @@
+- Hi, I'm Jardel Machado de Lima.
+- I’m interested in data science, egineeering, marketing, and chemistry. I'm graduated in chemical engineering, I'm curretly working part-time as a data scientist coordinator, and finishing my masters in chemical engineering. 
+- I’m currently learning about machine learning models and data science.
+- How to reach me on my linkedin profile: https://www.linkedin.com/in/jardel-machado-de-lima-a28359161/
